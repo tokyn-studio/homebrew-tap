@@ -8,8 +8,8 @@
 # Install:  brew install --cask tokyn-studio/tap/claudelights
 
 cask "claudelights" do
-  version "1.3"
-  sha256 "7bdd78d8635f566a84fcccdaaf90f80c33d2c58d00f80c5a8204f8a4d94017be"
+  version "1.4"
+  sha256 "496a06eb1807d422a83f7c4ba17e33dd8df91268049d7dd32ae8b7e76573f88f"
 
   url "https://github.com/tokyn-studio/claude-lights/releases/download/v#{version}/ClaudeLights.dmg"
   name "ClaudeLights"
